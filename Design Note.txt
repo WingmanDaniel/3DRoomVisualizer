@@ -1,0 +1,8 @@
+11/17/2021
+Creation and Enabled VR development support
+1. Unity Version: 2020.3.20f1
+2. Project Template: 3D
+3. Added XR Plugin Management(4.0.7) package
+4. Added XR Interaction Toolkit (1.0.0-pre.8) package and import the sample, default input actions.
+5. Added a plane for test
+6. Added the XR Rig which has continuous turn and move features. 
