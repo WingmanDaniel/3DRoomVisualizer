@@ -75,3 +75,6 @@ crashlytics-build.properties
 # Packaged XR packages
 /[Aa]ssets/[Xx]R/*
 /[Aa]ssets/[Ss]amples/*
+
+# Models and Textures
+/[Aa]ssets/[Oo]riginalObjects/*

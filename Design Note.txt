@@ -6,3 +6,12 @@ Creation and Enabled VR development support
 4. Added XR Interaction Toolkit (1.0.0-pre.8) package and import the sample, default input actions.
 5. Added a plane for test
 6. Added the XR Rig which has continuous turn and move features. 
+
+11/18/2021
+Created an apartment and build a furnished scene
+1. Original stuff Link: https://assetstore.unity.com/packages/3d/props/interior/classic-furniture-pack-54611
+2. Since the package was updated for Unity 2018, most pieces of stuff have display issues in the current version. such as messy texture or non-supported light prefabs.
+3. Re-edited each object by blender: removing useless animations and default material.
+4. Temporarily removed light prefabs, and will add them back in the future.
+5. Edited the skybox material
+6. Edited the ignore file to avoid large files of 3D models.
