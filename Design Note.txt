@@ -15,3 +15,8 @@ Created an apartment and build a furnished scene
 4. Temporarily removed light prefabs, and will add them back in the future.
 5. Edited the skybox material
 6. Edited the ignore file to avoid large files of 3D models.
+
+11/20/2021
+Created Floor Setting Menu for simulation
+1. Created teleportation areas and anchors 
+2. Added Floor Setting menu and implement the function
